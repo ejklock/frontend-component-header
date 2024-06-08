@@ -31,10 +31,15 @@ const messages = defineMessages({
     defaultMessage: 'Skip to main content.',
     description: 'A link used by screen readers to allow users to skip to the main content of the page.',
   },
-  signOut: {
-    id: 'header.menu.signOut.label',
-    defaultMessage: 'Sign Out',
-    description: 'The label for the user menu Sign Out action.',
+  headerLinksMyCourses: {
+    id: 'header.links.myCourses',
+    defaultMessage: 'My Courses',
+    description: 'The text for the My Courses link in the header.',
+  },
+  headerLinksDiscover: {
+    id: 'header.links.discover',
+    defaultMessage: 'Discover',
+    description: 'The text for the Discover new Courses link in the header.',
   },
 });
 
