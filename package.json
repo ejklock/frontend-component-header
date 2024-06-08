@@ -1,6 +1,6 @@
 {
-  "name": "@edly-io/indigo-frontend-component-header",
-  "version": "1.0.0",
+  "name": "@klocktecnologia/indigo-frontend-component-header",
+  "version": "1.1.1",
   "description": "The standard header for Open edX",
   "main": "dist/index.js",
   "publishConfig": {
@@ -24,14 +24,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edly-io/frontend-component-header.git"
+    "url": "git+https://github.com/ejklock/frontend-component-header.git"
   },
   "author": "edX",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/edly-io/frontend-component-header/issues"
+    "url": "https://github.com/ejklock/frontend-component-header/issues"
   },
-  "homepage": "https://github.com/edly-io/frontend-component-header#readme",
+  "homepage": "https://github.com/ejklock/frontend-component-header#readme",
   "devDependencies": {
     "@edx/brand": "npm:@openedx/brand-openedx@^1.2.2",
     "@edx/browserslist-config": "^1.1.1",
