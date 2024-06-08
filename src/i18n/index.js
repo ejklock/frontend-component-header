@@ -1,14 +1,15 @@
 import arMessages from './messages/ar.json';
-import frMessages from './messages/fr.json';
-import es419Messages from './messages/es_419.json';
-import zhcnMessages from './messages/zh_CN.json';
-import ptMessages from './messages/pt.json';
-import itMessages from './messages/it.json';
-import ukMessages from './messages/uk.json';
 import deMessages from './messages/de.json';
-import ruMessages from './messages/ru.json';
-import hiMessages from './messages/hi.json';
+import es419Messages from './messages/es_419.json';
+import frMessages from './messages/fr.json';
 import frCAMessages from './messages/fr_CA.json';
+import hiMessages from './messages/hi.json';
+import itMessages from './messages/it.json';
+import ptMessages from './messages/pt.json';
+import ptBRMessages from './messages/pt_BR.json';
+import ruMessages from './messages/ru.json';
+import ukMessages from './messages/uk.json';
+import zhcnMessages from './messages/zh_CN.json';
 // no need to import en messages-- they are in the defaultMessage field
 
 const messages = {
@@ -17,6 +18,7 @@ const messages = {
   fr: frMessages,
   'zh-cn': zhcnMessages,
   pt: ptMessages,
+  'pt-br': ptBRMessages,
   it: itMessages,
   de: deMessages,
   hi: hiMessages,
